@@ -5,6 +5,6 @@
 #### Fonts by Google Fonts
 
 #### Api (Random Quotes) : https://api.quotable.io/random
-#### Website : https://niketchaudhari.github.io/react-to-do-app/
+#### Website : https://niketchaudhari.github.io/react-random-quote-generator/
 
 
